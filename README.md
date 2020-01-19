@@ -23,3 +23,4 @@ RESULTS: A VERTICAL LIST OF 20 PRODUCT DESCRIPTION BOXES PER PAGE THAT CONTAIN:
 7) Phone Number
 8) Inquire Button to see more details
 *************************
+DynamicProductBox.jpg
